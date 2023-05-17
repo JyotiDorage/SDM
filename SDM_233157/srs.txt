@@ -1,0 +1,34 @@
+				SRS for Online project management system
+Introduction:
+Online project management system is a tool in managing projects within organization. It helps employees ,project managers,delivery managers 
+and stakeholders to keep track of ongoing projects and also update about executions going on in the organization.
+
+
+Functional Requirements:
+Registration and login:
+All employees,project managers ,stakeholders,delievery managers need to be registered in system to acccess it.Users need to registered in the system
+using name,id,phone,email,address. Then users have to login to acquire project related details.
+
+Projects details:
+All details about project like its id,name,schedule,employees working on it,manager who will manage that particular project will be made
+available here.It will also include list of ongoing projects as well as details about past projects.It will keep track of 
+ongoing projects.
+
+Project management:
+Project managers will work in harmony with all employees as well as stakeholders to make sure execution of project will go on smoothly.
+Project managers will keep track of projects, project schedule,assign work to employees who will be working on projects.
+
+Delivery service:
+After completion of project,delievery managers will check if project is done or not.If project is completed,delivery managers will be responsible
+for delivery of projects to respetive clients.
+
+Stakeholders:
+stakeholers will have project details as well as delivery details of it.
+
+
+
+
+
+
+
+

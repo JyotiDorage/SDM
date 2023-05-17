@@ -1,0 +1,20 @@
+business entities :
+Employee
+Project manager
+Delivery manager
+Stakeholders
+
+
+Business operations:
+Registration
+Login
+Assign projects
+Create schedule
+accept projects
+complete projects
+Track projects
+Maintain history
+Deliver projects
+Allocate resources
+manage time
+
